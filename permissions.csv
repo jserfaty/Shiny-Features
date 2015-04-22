@@ -1,0 +1,4 @@
+"id","admin_access","app_1_access","app_2_access","app_3_access"
+"user1","1","1","0","1"
+"user2","1","1","0","0"
+"user3","0","1","1","1"
